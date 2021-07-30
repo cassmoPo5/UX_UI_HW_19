@@ -7,6 +7,6 @@
   $("#filter button").attr("disabled", false);
   $(this).attr("disabled", true);
   document.getElementById("myButton").onclick = function () {
-    location.href = "test.html";
+    location.href = "'https://cassmopo5.github.io/UX_UI_HW_20/'";
   }
 }
